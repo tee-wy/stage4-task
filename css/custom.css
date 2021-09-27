@@ -2,7 +2,7 @@
  box-sizing: border-box;
  margin: 0;
  padding: 0;
- /* overflow-x: hidden; */
+ overflow-x: hidden;
 }
 
 .bd {
@@ -244,6 +244,7 @@ text-align: end;
 
 footer {
   background: black;
+  margin-top: 2rem;
  }
  
  footer p {
