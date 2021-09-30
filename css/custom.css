@@ -5,10 +5,7 @@
  /* overflow-x: hidden; */
 }
 
-.br {
-  border: 3px solid red;
-  
-}
+
 
 .bg-image{
  background-position: 50%;
@@ -296,5 +293,10 @@ footer {
   font-size: 1.5rem;
   text-transform: uppercase;
   padding-bottom: 1rem;
+}
+
+.nav-header .container {
+  display: flex !important;
+  flex-direction: column !important;
 }
 }
