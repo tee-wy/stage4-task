@@ -2,7 +2,7 @@
  box-sizing: border-box;
  margin: 0;
  padding: 0;
- /* overflow-x: hidden; */
+ overflow-x: hidden;
 }
 
 
@@ -295,8 +295,14 @@ footer {
   padding-bottom: 1rem;
 }
 
-.nav-header .container {
+.nav-header .container ul li {
   display: flex !important;
   flex-direction: column !important;
 }
+
+.customer .row  {
+  display: none;
 }
+
+}
+
