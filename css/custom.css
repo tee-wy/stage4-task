@@ -223,11 +223,13 @@ text-align: end;
   font-size: 3rem;
   text-transform: uppercase;
   padding-bottom: 1rem;
+  color: white;
 }
 
 .contact_us p {
   font-size: 1rem;
   text-transform: uppercase;
+  color: white;
 }
 
 .contact-us .container .row img  {
