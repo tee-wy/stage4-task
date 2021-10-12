@@ -4,16 +4,11 @@
  padding: 0;
 }
 
-.footer_section {
-  background-color: rgb(32, 31, 31);
+ .footer_section {
   width: 95vw;
-  margin-top: 1rem;
-}
+} 
 
 .aboutUs_section {
- padding-top: 1.5rem;
- background-color: black;
- color: white;
  width: 95vw;
 } 
 
@@ -26,30 +21,21 @@
  color: #FFC800;
 }
 
-.experience {
-  padding-top: 3rem;
-  padding-top: 2rem;
-}
-
-.experience .container .row .shape {
-  padding-top: 2rem;
-}
-
 .square {
   height: 100px;
   width: 100px;
   background-color: #FFC800;
-  align-content: flex-end;
+  
 }
 
-.projects .container .row img{
+.projects .container-fluid img{
   background-position: 100%;
   background-size: cover;
   background-repeat: no-repeat;
   opacity: 0.5;
 }
 
-.projects .container .row h3 {
+.projects .container-fluid .row h3 {
 color: #FFC800;
 }
 
@@ -66,12 +52,6 @@ color: #FFC800;
   height: 100vh;
 }
 
-.contact-us .container-fluid .row img  {
-  background-position: 100%;
-  background-size: cover;
-  background-repeat: no-repeat;
-  opacity: 1.5;
-}
 
 
 
