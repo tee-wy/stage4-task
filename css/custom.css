@@ -3,13 +3,24 @@
  margin: 0;
  padding: 0;
 }
+.container-fluid .section {
+  height: 100%;
+}
 
+/* .container-fluid .section .bg-image {
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+} */
  .footer_section {
   width: 95vw;
 } 
 
 .aboutUs_section {
  width: 95vw;
+ height: 100%;
 } 
 
  .container-fluid .sidebar h3{
