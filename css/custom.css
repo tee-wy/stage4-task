@@ -39,6 +39,10 @@
   
 }
 
+.container-fluid .projects {
+  height: 50vh;
+}
+
 .projects .container-fluid img{
   background-position: 100%;
   background-size: cover;
